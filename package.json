@@ -38,8 +38,7 @@
     "human-readable": "^0.2.1",
     "jimp": "^0.16.1",
     "jsdom": "^16.4.0",
-    "lowdb": "^2.1.0",
-    "mongoose": "^6.2.1",
+    "
     "moment-timezone": "^0.5.34",
     "mumaker": "^1.0.0",
     "node-cron": "^3.0.0",
@@ -61,7 +60,7 @@
   "directories": {
     "lib": "lib",
     "src": "src"
-  },
+ 
   "devDependencies": {},
   "repository": {
     "type": "git",
@@ -70,5 +69,4 @@
   "bugs": {
     "url": "https://github.com/nexusNw/Gojo-Satoru/issues"
   },
-  "homepage": "https://github.com/nexusNw/Gojo-Satoru#readme"
-}
+  "homepage": "ht
