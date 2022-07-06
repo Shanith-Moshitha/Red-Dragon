@@ -22,20 +22,20 @@ global.APIKeys = {
 global.alivemsg = `My name is RED DRAGON🔥
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94706389804'] //Owner number in aive msg
+global.premium = ['+94706389804'] //Owner Number info
+global.ownernomer = '+94774309804' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+global.ownername = '😎𝗘.𝗗.𝗦.𝗠𝗢𝗦𝗛𝗜𝗧𝗛𝗔' //Owner Name
+global.botname = ' ☬Gaming༒𝔖𝔞𝔫𝔲࿐' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.btnurl = 'https://youtube.com/channel/UCtKT-h1UkEJ5sDJ3Std270g' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬GAMING༒𝔖𝔞𝔫𝔲࿐' //Bot Pacage Name
+global.author = '😎𝙂𝙖𝙢𝙞𝙣𝙜 𝔖𝔞𝔫𝔲 ❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
@@ -43,7 +43,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_Kumuthu.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://youtube.com/channel/UCtKT-h1UkEJ5sDJ3Std270g' //youtube Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
@@ -54,7 +54,7 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉අඩේ මොකක් හරි වෙලා බං.. පොඩ්ඩක් ඉන්න හොදේ ඉක්මනින්ම හදන්නම්..👈Pleas Wait...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
